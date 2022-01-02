@@ -1,0 +1,53 @@
+h1 {
+    color: blueviolet;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red
+}
+
+.blue {
+    color: blueviolet
+}
+
+#bid {
+    color: gainsboro
+}
+
+* {
+    box-sizing: border-box;
+}
+/* 
+.box {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    margin: 10px;
+    padding: 40px;
+    background-position: center;
+    background-size: cover;
+}
+
+.contenedor {
+    max-width: 1200px;
+    margin: 0 auto;
+} */
+/* 
+h1 {
+    background-color: red;
+    color: violet;
+    padding: 1rem;
+}
+
+p {
+    background-color: black;
+    color: white;
+    padding: 1rem;
+} */
